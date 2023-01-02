@@ -1,4 +1,4 @@
-# BirdStrikeAnalysis
+# BirdStrikeAnalysisusingTableau
 The spreadsheet contains
 records of US flights between 2019-01-01 and 2021-12-31 where the plane has been struck by a bird
 while in flight. 
